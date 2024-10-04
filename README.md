@@ -45,10 +45,10 @@ After segmentation, the model maps each pixel label to a corresponding human-rea
 ### Example Output
 
 #### Original Image:
-![Original Image](https://drive.google.com/file/d/1jkrHzMtzaKLXnSoSKiDop28giBWoPRiA/view?usp=sharing)
+![Original Image](1.png)
 
 #### Segmented Output:
-![Segmented Image]([path_to_segmented_image](https://drive.google.com/file/d/1uDlVBDMhIEuJcezWpLbYwtLhqAyUWEuk/view?usp=sharing))
+![Segmented Image](2.png))
 
 #### Labels:
 ```text
